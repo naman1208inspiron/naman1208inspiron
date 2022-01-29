@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naman1208inspiron
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on some projects.
+- 💞️ I’m looking to collaborate on some projects of web dev.
 - 📫 Reach to me on sharmanammu1208@gmail.com
 
 <!---
