@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @naman1208inspiron
-- 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on some projects of web dev.
-- 📫 Reach to me on sharmanammu1208@gmail.com
+- 👋 Hi, I’m Naman.
+- 👋 Bye
 
 <!---
 naman1208inspiron/naman1208inspiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
